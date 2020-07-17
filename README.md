@@ -1,6 +1,6 @@
 ### Hi there 👋, somehow you came here and why not check my blogs and youtube channels!
 
-![Microsoft MVP Since 2016](images/Microsoft_MVP_2016.webp)
+![Microsoft MVP Since 2016](https://github.com/SibeeshVenu/sibeeshvenu/blob/master/images/Microsoft_MVP_2016.webp)
 
 
 - 🔭 I’m currently working on Azure IoT Hub, IoT Central, Raspberry Pi 
