@@ -1,4 +1,4 @@
-Hi there 👋, feel free to check out my blogs and youtube channels!
+Hi there 👋, feel free to check out my blog and youtube channel!
 
 <a href="https://mvp.microsoft.com/en-us/PublicProfile/5001828">![Microsoft MVP Since 2016](https://github.com/SibeeshVenu/sibeeshvenu/blob/master/images/MVP_Logo_Horizontal.png)</a>
 <a href="https://sibeeshpassion.com/">![Sibeesh Passion](https://github.com/SibeeshVenu/sibeeshvenu/blob/master/images/sibeeshpassion.png)</a>
