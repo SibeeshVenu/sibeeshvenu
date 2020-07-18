@@ -5,9 +5,10 @@ Hi there 👋, feel free to check out my blog and youtube channel!
 <a href="https://youtube.com/njanorumalayali">![Njan Oru Malayali](https://github.com/SibeeshVenu/sibeeshvenu/blob/master/images/njanorumalayali.jpg)</a>
 <a href="https://medium.com/@sibeeshvenu">![Sibeesh Venu @ Medium](https://github.com/SibeeshVenu/sibeeshvenu/blob/master/images/medium.png)</a>
 
-See my recent post from my blog (This is automated message using Azure Function. Azure is Love!)
+See my recent post from my <a target="_blank" href="https://sibeeshpassion.com/">blog</a> (This is automated message using Azure Function. Azure is Love!)
 
-<a target="_blank" href="https://sibeeshpassion.com/"><img src="https://getlatestposts.azurewebsites.net/api/GetLatestPosts?code=VS4fy5DNxpj8/SUS0Chp0aGBux36c9OyOg5KhmSjh5dPVBvCaVaEuA=="></img></a>
+<img src="https://getlatestposts.azurewebsites.net/api/GetLatestPosts?code=VS4fy5DNxpj8/SUS0Chp0aGBux36c9OyOg5KhmSjh5dPVBvCaVaEuA==">
+</img>
 
 - 🔭 I’m currently working on Azure IoT Hub, IoT Central, Raspberry Pi 
 - 🌱 I’m currently learning a lot of new IoT topics
