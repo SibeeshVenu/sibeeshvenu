@@ -7,7 +7,7 @@ Hi there 👋, feel free to check out my blog and youtube channel!
 
 See my recent post from my <a target="_blank" href="https://sibeeshpassion.com/">blog</a> (This is automated message using Azure Function. Azure is Love!)
 
-<img src="https://getlatestposts.azurewebsites.net/api/GetLatestPosts?code=VS4fy5DNxpj8/SUS0Chp0aGBux36c9OyOg5KhmSjh5dPVBvCaVaEuA==">
+<img alt="This is an automated blog post image using Azure Function" src="https://getlatestposts.azurewebsites.net/api/GetLatestPosts?code=VS4fy5DNxpj8/SUS0Chp0aGBux36c9OyOg5KhmSjh5dPVBvCaVaEuA==">
 
 - 🔭 I’m currently working on Azure IoT Hub, IoT Central, Raspberry Pi 
 - 🌱 I’m currently learning a lot of new IoT topics
