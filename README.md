@@ -7,7 +7,7 @@ Hi there 👋, feel free to check out my blog and youtube channel!
 
 Below are the titles of latest 5 posts from my <a target="_blank" href="https://sibeeshpassion.com/">blog</a> (This is an automated message using Azure Function. Azure is Love!)
 
-![This is an automated blog post image using Azure Function](https://storageaccountsibee99d5.blob.core.windows.net/github/latestpost.png)
+<img alt="This is an automated blog post image using Azure Function" src="https://storageaccountsibee99d5.blob.core.windows.net/github/latestpost.png"/>
 
 - 🔭 I’m currently working on Azure IoT Hub, IoT Central, Raspberry Pi 
 - 🌱 I’m currently learning a lot of new IoT topics
