@@ -5,10 +5,9 @@ Hi there 👋, I am yet another developer who is passionate about writing and vi
 
 | My blogs and websites | My YouTube channels |
 | --------------------- | ------------------- |
-|- 🔗 <a href="https://sibeeshpassion.com/">https://sibeeshpassion.com</a>
-- 🔗 <a href="https://sibeeshvenu.com/">https://sibeeshvenu.com</a>
-- 🔗 <a href="https://njanorumalayali.com/">https://njanorumalayali.com</a> | - 📷 <a href="https://www.youtube.com/njanorumalayali">https://www.youtube.com/njanorumalayali</a>
-- 📷 <a href="https://www.youtube.com/SibeeshPassion">https://www.youtube.com/sibeeshpassion</a> |
+| 🔗 <a href="https://sibeeshpassion.com/">https://sibeeshpassion.com</a> | 📷 <a href="https://www.youtube.com/njanorumalayali">https://www.youtube.com/njanorumalayali</a> |
+| 🔗 <a href="https://sibeeshvenu.com/">https://sibeeshvenu.com</a> | 📷 <a href="https://www.youtube.com/SibeeshPassion">https://www.youtube.com/sibeeshpassion</a> | 
+| 🔗 <a href="https://njanorumalayali.com/">https://njanorumalayali.com</a> | - |
 
 <b>Other Worlds</b>
 
