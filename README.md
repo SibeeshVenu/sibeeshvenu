@@ -12,7 +12,7 @@ Hi there 👋, I am yet another developer who is passionate about writing and vi
 
 | Other Worlds |
 | ------------ |
-| 🔭 <a href="https://twitter.com/SibeeshVenu">https://twitter.com/sibeeshvenu</a> |
-| 🌱 <a href="https://medium.com/@sibeeshvenu">https://medium.com/@sibeeshvenu</a> |
-| 👯 <a href="https://www.instagram.com/sibeeshvenu/">https://www.instagram.com/sibeeshvenu</a> |
-| ⚡ <a href="https://stackoverflow.com/users/5550507/sibeesh-venu">https://stackoverflow.com/users/5550507/sibeesh-venu</a> |
+| <a href="https://twitter.com/SibeeshVenu">https://twitter.com/sibeeshvenu</a> |
+| <a href="https://medium.com/@sibeeshvenu">https://medium.com/@sibeeshvenu</a> |
+| <a href="https://www.instagram.com/sibeeshvenu/">https://www.instagram.com/sibeeshvenu</a> |
+| <a href="https://stackoverflow.com/users/5550507/sibeesh-venu">https://stackoverflow.com/users/5550507/sibeesh-venu</a> |
