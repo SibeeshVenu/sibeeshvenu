@@ -5,18 +5,13 @@ Hi there 👋, I am yet another developer who is passionate about writing and vi
 <details>
 <summary>Want to know more about me? Click here!</summary>
 <p>
-| My blogs and websites                                        | My YouTube channels                                                     |
-| ------------------------------------------------------------ | ----------------------------------------------------------------------- |
-| 🔗 <a href="https://sibeeshpassion.com/">Blog</a>             | 📷 <a href="https://www.youtube.com/njanorumalayali">njanorumalayali</a> |
-| 🔗 <a href="https://sibeeshvenu.com/">Website</a>             | 📷 <a href="https://www.youtube.com/SibeeshPassion">sibeeshpassion</a>   |
-| 🔗 <a href="https://njanorumalayali.com/">njanorumalayali</a> | -                                                                       |
+| My blogs and websites | My YouTube channels | Other Worlds |
 
+| 🔗 <a href="https://sibeeshpassion.com/">Blog</a> | 📷 <a href="https://www.youtube.com/njanorumalayali">njanorumalayali</a> | <a href="https://twitter.com/SibeeshVenu">twitter</a>|
 
-| Other Worlds                                                                     |
-| -------------------------------------------------------------------------------- |
-| <a href="https://twitter.com/SibeeshVenu">twitter</a>                            |
-| <a href="https://medium.com/@sibeeshvenu">medium</a>                             |
-| <a href="https://www.instagram.com/sibeeshvenu/">instagram</a>                   |
-| <a href="https://stackoverflow.com/users/5550507/sibeesh-venu">stackoverflow</a> |
+| 🔗 <a href="https://sibeeshvenu.com/">Website</a> | 📷 <a href="https://www.youtube.com/SibeeshPassion">sibeeshpassion</a> | <a href="https://medium.com/@sibeeshvenu">medium</a> 
+                            |
+| 🔗 <a href="https://njanorumalayali.com/">njanorumalayali</a> | | <a href="https://www.instagram.com/sibeeshvenu/">instagram</a> | <a href="https://stackoverflow.com/users/5550507/sibeesh-venu">stackoverflow</a> |
+
 </p>
 </details>
