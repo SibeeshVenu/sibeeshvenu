@@ -1,6 +1,6 @@
 Hi there 👋, I am yet another developer who is passionate about writing and video creation. Microsoft MVP Since 2016. Below are the titles of <b>latest 5 posts</b> from my <a target="_blank" href="https://sibeeshpassion.com/">blog</a> (This is an automated message using Azure Function. Azure is Love!)
 
-![This is an automated blog post image using Azure Function](https://storageaccountsibee99d5.blob.core.windows.net/github/latestpost.png)
+![This is an automated blog post image using Azure Function](https://storageaccountsibee99d5.blob.core.windows.net/github/latestpost.png?)
 
 <details>
 <summary>Hm, a few more deatils down!</summary>
