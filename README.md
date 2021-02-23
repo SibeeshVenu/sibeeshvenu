@@ -3,6 +3,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=sibeeshvenu&theme=flat&no-frame=true&margin-w=30" />
 
 <h3>Latest blog posts</h3>
+
 <!-- BLOG-POST-LIST:START -->
 - [Create Azure AD Application with Configurations Using PowerShell](https://medium.com/@sibeeshvenu/create-azure-ad-application-with-configurations-using-powershell-5b083962c294?source=rss-3adc72d1204a------2)
 - [Create Azure AD Application with Configurations Using PowerShell](https://sibeeshpassion.com/create-azure-ad-application-with-configurations-using-powershell/)
@@ -10,7 +11,9 @@
 - [Get Users From Different Tenants Using Azure AD Application Permission](https://sibeeshpassion.com/get-users-from-different-tenants-using-azure-ad-application-permission/)
 - [Microsoft Partner Center DotNet Samples Secure App Model KeyVault Integration — Here is how it…](https://medium.com/@sibeeshvenu/microsoft-partner-center-dotnet-samples-secure-app-model-keyvault-integration-here-is-how-it-ef671da2c4bb?source=rss-3adc72d1204a------2)
 <!-- BLOG-POST-LIST:END -->
+
 <h3>Latest stackoverflow answers</h3>
+
 <!-- STACKOVERFLOW:START -->
 - [Answer by Sibeesh Venu for The seed entity for entity type 'X' cannot be added because the was no value provided for the required property "..ID"](https://stackoverflow.com/questions/50010613/the-seed-entity-for-entity-type-x-cannot-be-added-because-the-was-no-value-pro/66313185#66313185)
 - [Answer by Sibeesh Venu for How to perform async ModelState validation with FluentValidation in Web API using .NET Core](https://stackoverflow.com/questions/55048016/how-to-perform-async-modelstate-validation-with-fluentvalidation-in-web-api-usin/66258207#66258207)
