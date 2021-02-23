@@ -21,8 +21,6 @@
 - [Answer by Sibeesh Venu for How to force image (cache) update in README.rst on GitHub](https://stackoverflow.com/questions/26898052/how-to-force-image-cache-update-in-readme-rst-on-github/66030456#66030456)
 <!-- STACKOVERFLOW:END -->
 
-![](https://hit.yhype.me/github/profile?user_id=4262147)
-
 <details>
 <summary>Hm, a few more deatils, click here!</summary>
 <p>
@@ -35,3 +33,7 @@
 
 </p>
 </details>
+
+
+![](https://hit.yhype.me/github/profile?user_id=4262147)
+
