@@ -3,7 +3,13 @@
 I am yet another developer who is passionate about writing and video creation. Microsoft MVP Since 2016. 
 </p>
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Create Azure AD Application with Configurations Using PowerShell](https://sibeeshpassion.com/create-azure-ad-application-with-configurations-using-powershell/)
+- [Get Users From Different Tenants Using Azure AD Application Permission](https://sibeeshpassion.com/get-users-from-different-tenants-using-azure-ad-application-permission/)
+- [Microsoft Partner Center DotNet Samples Secure App Model KeyVault Integration – Here is how it works](https://sibeeshpassion.com/microsoft-partner-center-dotnet-samples-secure-app-model-keyvault-integration-here-is-how-it-works/)
+- [Why Not Secure Your Keys and Secrets? Asp Net Core with Azure Key Vault Integration](https://sibeeshpassion.com/why-not-secure-your-keys-and-secrets-asp-net-core-with-azure-key-vault-integration/)
+- [Azure Multi-Stage Pipeline for Asp.Net Core and Azure, Deploy to Azure App Service](https://sibeeshpassion.com/azure-multi-stage-pipeline-for-asp-net-core-and-azure-deploy-to-azure-app-service/)
+<!-- BLOG-POST-LIST:END -->
 
 <!-- STACKOVERFLOW:START -->
 - [Answer by Sibeesh Venu for The seed entity for entity type 'X' cannot be added because the was no value provided for the required property "..ID"](https://stackoverflow.com/questions/50010613/the-seed-entity-for-entity-type-x-cannot-be-added-because-the-was-no-value-pro/66313185#66313185)
