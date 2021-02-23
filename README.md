@@ -1,9 +1,10 @@
-<h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<p>
-I am yet another developer who is passionate about writing and video creation. Microsoft MVP Since 2016. 
-</p>
+<h3>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3> I am yet another developer in this beautiful developer world. Developer by profession and writer by passion. Microsoft MVP Since 2016. 
+
+<h3>Latest blog posts</h3>
 
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+
+<h3>Latest stackoverflow answers</h3>
 
 <!-- STACKOVERFLOW:START --><!-- STACKOVERFLOW:END -->
 
