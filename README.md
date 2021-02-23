@@ -1,4 +1,5 @@
-<h3>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3> I am yet another developer in this beautiful developer world. Developer by profession and writer by passion. Microsoft MVP Since 2016. 
+<h3>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3> 
+<p>I am yet another developer in this beautiful developer world. Developer by profession and writer by passion. Microsoft MVP Since 2016. </p>
 
 <img src="https://github-profile-trophy.vercel.app/?username=sibeeshvenu&theme=flat&no-frame=true&margin-w=30" />
 
