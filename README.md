@@ -8,7 +8,7 @@ I am yet another developer who is passionate about writing and video creation. M
 <!-- STACKOVERFLOW:START --><!-- STACKOVERFLOW:END -->
 
 <details>
-<summary>Hm, a few more deatils down!</summary>
+<summary>Hm, a few more deatils, click here!</summary>
 <p>
   
 | Blogs & Websites                                             |                            YouTube Channels                             |                                                                            Other |
