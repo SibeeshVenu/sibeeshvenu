@@ -6,11 +6,11 @@
 <h3>Latest blog posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Azure AD Application with Configurations Using PowerShell](https://medium.com/@sibeeshvenu/create-azure-ad-application-with-configurations-using-powershell-5b083962c294?source=rss-3adc72d1204a------2)
 - [Create Azure AD Application with Configurations Using PowerShell](https://sibeeshpassion.com/create-azure-ad-application-with-configurations-using-powershell/)
-- [Get Users From Different Tenants Using Azure AD Application Permission](https://medium.com/swlh/get-users-from-different-tenants-using-azure-ad-application-permission-9fcbf08b6847?source=rss-3adc72d1204a------2)
 - [Get Users From Different Tenants Using Azure AD Application Permission](https://sibeeshpassion.com/get-users-from-different-tenants-using-azure-ad-application-permission/)
-- [Microsoft Partner Center DotNet Samples Secure App Model KeyVault Integration — Here is how it…](https://medium.com/@sibeeshvenu/microsoft-partner-center-dotnet-samples-secure-app-model-keyvault-integration-here-is-how-it-ef671da2c4bb?source=rss-3adc72d1204a------2)
+- [Microsoft Partner Center DotNet Samples Secure App Model KeyVault Integration – Here is how it works](https://sibeeshpassion.com/microsoft-partner-center-dotnet-samples-secure-app-model-keyvault-integration-here-is-how-it-works/)
+- [Why Not Secure Your Keys and Secrets? Asp Net Core with Azure Key Vault Integration](https://sibeeshpassion.com/why-not-secure-your-keys-and-secrets-asp-net-core-with-azure-key-vault-integration/)
+- [Azure Multi-Stage Pipeline for Asp.Net Core and Azure, Deploy to Azure App Service](https://sibeeshpassion.com/azure-multi-stage-pipeline-for-asp-net-core-and-azure-deploy-to-azure-app-service/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Latest stackoverflow answers</h3>
