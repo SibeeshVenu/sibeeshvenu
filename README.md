@@ -13,7 +13,7 @@
 - [Azure Multi-Stage Pipeline for Asp.Net Core and Azure, Deploy to Azure App Service](https://sibeeshpassion.com/azure-multi-stage-pipeline-for-asp-net-core-and-azure-deploy-to-azure-app-service/)
 <!-- BLOG-POST-LIST:END -->
 
-<h3>Latest stackoverflow answers</h3>
+<h3>Latest stackoverflow posts</h3>
 
 <!-- STACKOVERFLOW:START -->
 - [The type X cannot be used as type parameter 'TValueResolver' in the generic type or method 'IMemberConfigurationExpression](https://stackoverflow.com/questions/66336817/the-type-x-cannot-be-used-as-type-parameter-tvalueresolver-in-the-generic-type)
