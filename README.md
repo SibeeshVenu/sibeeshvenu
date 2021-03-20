@@ -16,11 +16,11 @@
 <h3>Latest stackoverflow posts</h3>
 
 <!-- STACKOVERFLOW:START -->
+- [Could not find a declaration file for module 'prismjs/components/prism-core' vue-prism-editor](https://stackoverflow.com/questions/66726731/could-not-find-a-declaration-file-for-module-prismjs-components-prism-core-vue)
+- [Answer by Sibeesh Venu for Could not find a declaration file for module 'prismjs/components/prism-core' vue-prism-editor](https://stackoverflow.com/questions/66726731/could-not-find-a-declaration-file-for-module-prismjs-components-prism-core-vue/66726732#66726732)
 - [The type X cannot be used as type parameter 'TValueResolver' in the generic type or method 'IMemberConfigurationExpression](https://stackoverflow.com/questions/66336817/the-type-x-cannot-be-used-as-type-parameter-tvalueresolver-in-the-generic-type)
 - [Answer by Sibeesh Venu for The seed entity for entity type 'X' cannot be added because the was no value provided for the required property "..ID"](https://stackoverflow.com/questions/50010613/the-seed-entity-for-entity-type-x-cannot-be-added-because-the-was-no-value-pro/66313185#66313185)
 - [Answer by Sibeesh Venu for How to perform async ModelState validation with FluentValidation in Web API using .NET Core](https://stackoverflow.com/questions/55048016/how-to-perform-async-modelstate-validation-with-fluentvalidation-in-web-api-usin/66258207#66258207)
-- [Answer by Sibeesh Venu for TypeScript: Type 'string | undefined' is not assignable to type 'string'](https://stackoverflow.com/questions/61130603/typescript-type-string-undefined-is-not-assignable-to-type-string/66257487#66257487)
-- [Answer by Sibeesh Venu for EntityFrameworkCore how to run "Update-Database" & "Add-Migration" from Visual Studio Code (VSCode)](https://stackoverflow.com/questions/40435548/entityframeworkcore-how-to-run-update-database-add-migration-from-visual-s/66123447#66123447)
 <!-- STACKOVERFLOW:END -->
 <!-- STACKOVERFLOW:START -->
 - [Answer by Sibeesh Venu for The seed entity for entity type 'X' cannot be added because the was no value provided for the required property "..ID"](https://stackoverflow.com/questions/50010613/the-seed-entity-for-entity-type-x-cannot-be-added-because-the-was-no-value-pro/66313185#66313185)
