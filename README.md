@@ -6,11 +6,11 @@
 <h3>Latest blog posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrate or Port Your Old Legacy .net Projects to the .NET5](https://sibeeshpassion.com/migrate-or-port-your-old-legacy-net-projects-to-the-net5/)
 - [Create Azure AD Application with Configurations Using PowerShell](https://sibeeshpassion.com/create-azure-ad-application-with-configurations-using-powershell/)
 - [Get Users From Different Tenants Using Azure AD Application Permission](https://sibeeshpassion.com/get-users-from-different-tenants-using-azure-ad-application-permission/)
 - [Microsoft Partner Center DotNet Samples Secure App Model KeyVault Integration – Here is how it works](https://sibeeshpassion.com/microsoft-partner-center-dotnet-samples-secure-app-model-keyvault-integration-here-is-how-it-works/)
 - [Why Not Secure Your Keys and Secrets? Asp Net Core with Azure Key Vault Integration](https://sibeeshpassion.com/why-not-secure-your-keys-and-secrets-asp-net-core-with-azure-key-vault-integration/)
-- [Azure Multi-Stage Pipeline for Asp.Net Core and Azure, Deploy to Azure App Service](https://sibeeshpassion.com/azure-multi-stage-pipeline-for-asp-net-core-and-azure-deploy-to-azure-app-service/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Latest stackoverflow posts</h3>
