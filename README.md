@@ -6,7 +6,7 @@
 <h3>Latest blog posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrate or Port Your Old Legacy .net Projects to the .NET5](https://sibeeshpassion.com/migrate-or-port-your-old-legacy-net-projects-to-the-net5/)
+- [Migrate or Port Your Old Legacy .NET Projects to the .NET5](https://sibeeshpassion.com/migrate-or-port-your-old-legacy-net-projects-to-the-net5/)
 - [Create Azure AD Application with Configurations Using PowerShell](https://sibeeshpassion.com/create-azure-ad-application-with-configurations-using-powershell/)
 - [Get Users From Different Tenants Using Azure AD Application Permission](https://sibeeshpassion.com/get-users-from-different-tenants-using-azure-ad-application-permission/)
 - [Microsoft Partner Center DotNet Samples Secure App Model KeyVault Integration – Here is how it works](https://sibeeshpassion.com/microsoft-partner-center-dotnet-samples-secure-app-model-keyvault-integration-here-is-how-it-works/)
