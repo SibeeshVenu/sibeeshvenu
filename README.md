@@ -16,11 +16,11 @@
 <h3>Latest stackoverflow posts</h3>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Sibeesh Venu for Visual studio 2017 process with an id of is not running error](https://stackoverflow.com/questions/55880502/visual-studio-2017-process-with-an-id-of-is-not-running-error/67949648#67949648)
 - [Answer by Sibeesh Venu for Diagnosing why Visual Studio skips building a project](https://stackoverflow.com/questions/54038485/diagnosing-why-visual-studio-skips-building-a-project/67822434#67822434)
 - [Answer by Sibeesh Venu for tf402455 when I delete feature branch](https://stackoverflow.com/questions/42030766/tf402455-when-i-delete-feature-branch/67674528#67674528)
 - [Answer by Sibeesh Venu for Could not find android.jar for API Level 26 in Visual Studio 2017](https://stackoverflow.com/questions/46451635/could-not-find-android-jar-for-api-level-26-in-visual-studio-2017/67586532#67586532)
 - [Answer by Sibeesh Venu for 'npm' is not recognized as internal or external command, operable program or batch file](https://stackoverflow.com/questions/20992723/npm-is-not-recognized-as-internal-or-external-command-operable-program-or-bat/66778461#66778461)
-- [Could not find a declaration file for module 'prismjs/components/prism-core' vue-prism-editor](https://stackoverflow.com/questions/66726731/could-not-find-a-declaration-file-for-module-prismjs-components-prism-core-vue)
 <!-- STACKOVERFLOW:END -->
 <!-- STACKOVERFLOW:START -->
 - [Answer by Sibeesh Venu for The seed entity for entity type 'X' cannot be added because the was no value provided for the required property "..ID"](https://stackoverflow.com/questions/50010613/the-seed-entity-for-entity-type-x-cannot-be-added-because-the-was-no-value-pro/66313185#66313185)
