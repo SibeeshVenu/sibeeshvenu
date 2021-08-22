@@ -16,8 +16,8 @@
 <h3>Latest stackoverflow posts</h3>
 
 <!-- STACKOVERFLOW:START -->
-- [fatal: bad boolean config value 'null' for 'commit.gpgsign' gitkraken and gitclients](https://stackoverflow.com/questions/68744215/fatal-bad-boolean-config-value-null-for-commit-gpgsign-gitkraken-and-gitcli)
 - [Answer by Sibeesh Venu for fatal: bad boolean config value 'null' for 'commit.gpgsign' gitkraken and gitclients](https://stackoverflow.com/questions/68744215/fatal-bad-boolean-config-value-null-for-commit-gpgsign-gitkraken-and-gitcli/68744216#68744216)
+- [fatal: bad boolean config value 'null' for 'commit.gpgsign' gitkraken and gitclients](https://stackoverflow.com/questions/68744215/fatal-bad-boolean-config-value-null-for-commit-gpgsign-gitkraken-and-gitcli)
 - [Error: Could not resolve './src/components/uiListItem.vue' from index.js in Azure DevOps Build Pipeline](https://stackoverflow.com/questions/68209267/error-could-not-resolve-src-components-uilistitem-vue-from-index-js-in-azur)
 - [Answer by Sibeesh Venu for Error: Could not resolve './src/components/uiListItem.vue' from index.js in Azure DevOps Build Pipeline](https://stackoverflow.com/questions/68209267/error-could-not-resolve-src-components-uilistitem-vue-from-index-js-in-azur/68209268#68209268)
 - [Answer by Sibeesh Venu for Visual studio 2017 process with an id of is not running error](https://stackoverflow.com/questions/55880502/visual-studio-2017-process-with-an-id-of-is-not-running-error/67949648#67949648)
