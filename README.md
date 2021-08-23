@@ -6,11 +6,11 @@
 <h3>Latest blog posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Reminder to a Teams Channel Using Power Automate Flow](https://sibeeshpassion.com/reminder-to-a-teams-channel-using-power-automate-flow/)
 - [Get Azure DevOps Sprint Capacity Using API and PostMan](https://sibeeshpassion.com/get-azure-devops-sprint-capacity-using-api-and-postman/)
 - [Migrate or Port Your Old Legacy .NET Projects to the .NET5](https://sibeeshpassion.com/migrate-or-port-your-old-legacy-net-projects-to-the-net5/)
 - [Create Azure AD Application with Configurations Using PowerShell](https://sibeeshpassion.com/create-azure-ad-application-with-configurations-using-powershell/)
 - [Get Users From Different Tenants Using Azure AD Application Permission](https://sibeeshpassion.com/get-users-from-different-tenants-using-azure-ad-application-permission/)
-- [Microsoft Partner Center DotNet Samples Secure App Model KeyVault Integration – Here is how it works](https://sibeeshpassion.com/microsoft-partner-center-dotnet-samples-secure-app-model-keyvault-integration-here-is-how-it-works/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Latest stackoverflow posts</h3>
