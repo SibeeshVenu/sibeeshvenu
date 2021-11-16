@@ -19,8 +19,8 @@
 - [Answer by Sibeesh Venu for webpack options has an unknown property &#39;hotOnly&#39;. Invalid options object. Dev Server has been initialized using an options object](https://stackoverflow.com/questions/69102254/webpack-options-has-an-unknown-property-hotonly-invalid-options-object-dev-s/69102255#69102255)
 - [webpack options has an unknown property &#39;hotOnly&#39;. Invalid options object. Dev Server has been initialized using an options object](https://stackoverflow.com/questions/69102254/webpack-options-has-an-unknown-property-hotonly-invalid-options-object-dev-s)
 - [Answer by Sibeesh Venu for Web deployment task failed. Could not connect...server did not respond](https://stackoverflow.com/questions/11796838/web-deployment-task-failed-could-not-connect-server-did-not-respond/69090706#69090706)
-- [fatal: bad boolean config value &#39;null&#39; for &#39;commit.gpgsign&#39; gitkraken and gitclients](https://stackoverflow.com/questions/68744215/fatal-bad-boolean-config-value-null-for-commit-gpgsign-gitkraken-and-gitcli)
 - [Answer by Sibeesh Venu for fatal: bad boolean config value &#39;null&#39; for &#39;commit.gpgsign&#39; gitkraken and gitclients](https://stackoverflow.com/questions/68744215/fatal-bad-boolean-config-value-null-for-commit-gpgsign-gitkraken-and-gitcli/68744216#68744216)
+- [fatal: bad boolean config value &#39;null&#39; for &#39;commit.gpgsign&#39; gitkraken and gitclients](https://stackoverflow.com/questions/68744215/fatal-bad-boolean-config-value-null-for-commit-gpgsign-gitkraken-and-gitcli)
 <!-- STACKOVERFLOW:END -->
 <!-- STACKOVERFLOW:START -->
 - [Answer by Sibeesh Venu for The seed entity for entity type 'X' cannot be added because the was no value provided for the required property "..ID"](https://stackoverflow.com/questions/50010613/the-seed-entity-for-entity-type-x-cannot-be-added-because-the-was-no-value-pro/66313185#66313185)
