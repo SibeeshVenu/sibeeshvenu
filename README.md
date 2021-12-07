@@ -16,11 +16,11 @@
 <h3>Latest stackoverflow posts</h3>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Sibeesh Venu for Azure DevOps YAML Pipeline Error: While parsing a block mapping did not find expected key](https://stackoverflow.com/questions/70258702/azure-devops-yaml-pipeline-error-while-parsing-a-block-mapping-did-not-find-exp/70258703#70258703)
+- [Azure DevOps YAML Pipeline Error: While parsing a block mapping did not find expected key](https://stackoverflow.com/questions/70258702/azure-devops-yaml-pipeline-error-while-parsing-a-block-mapping-did-not-find-exp)
 - [Answer by Sibeesh Venu for Azure DevOps AzCopy Authentication failed, it is either not correct, or expired, or does not have the correct permission](https://stackoverflow.com/questions/70246046/azure-devops-azcopy-authentication-failed-it-is-either-not-correct-or-expired/70246047#70246047)
 - [Azure DevOps AzCopy Authentication failed, it is either not correct, or expired, or does not have the correct permission](https://stackoverflow.com/questions/70246046/azure-devops-azcopy-authentication-failed-it-is-either-not-correct-or-expired)
 - [Answer by Sibeesh Venu for Azure Web App Virtual Application, The resource you are looking for has been removed, had its name changed, or is temporarily unavailable](https://stackoverflow.com/questions/70199437/azure-web-app-virtual-application-the-resource-you-are-looking-for-has-been-rem/70199438#70199438)
-- [Azure Web App Virtual Application, The resource you are looking for has been removed, had its name changed, or is temporarily unavailable](https://stackoverflow.com/questions/70199437/azure-web-app-virtual-application-the-resource-you-are-looking-for-has-been-rem)
-- [Answer by Sibeesh Venu for How to create Azure DevOps Service Connection scoped to multiple Resource Groups](https://stackoverflow.com/questions/58113812/how-to-create-azure-devops-service-connection-scoped-to-multiple-resource-groups/70035311#70035311)
 <!-- STACKOVERFLOW:END -->
 <!-- STACKOVERFLOW:START -->
 - [Answer by Sibeesh Venu for The seed entity for entity type 'X' cannot be added because the was no value provided for the required property "..ID"](https://stackoverflow.com/questions/50010613/the-seed-entity-for-entity-type-x-cannot-be-added-because-the-was-no-value-pro/66313185#66313185)
