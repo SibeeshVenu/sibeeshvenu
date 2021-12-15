@@ -6,11 +6,11 @@
 <h3>Latest blog posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy .net 6 App to Azure from Azure DevOps using Pipelines](https://sibeeshpassion.com/deploy-net-6-app-to-azure-from-azure-devops-using-pipelines/)
 - [Integrate Azure App Insights in 1 Minute to .Net6 Application](https://sibeeshpassion.com/integrate-azure-app-insights-in-1-minute-to-net6-application/)
 - [Azure DevOps Service Connection with Multiple Azure Resource Group](https://sibeeshpassion.com/azure-devops-service-connection-with-multiple-azure-resource-group/)
 - [Change MFA Phone/Mobile Number Using PowerShell](https://sibeeshpassion.com/change-mfa-phone-mobile-number-using-powershell/)
 - [Reminder to a Teams Channel Using Power Automate Flow](https://sibeeshpassion.com/reminder-to-a-teams-channel-using-power-automate-flow/)
-- [Get Azure DevOps Sprint Capacity Using API and PostMan](https://sibeeshpassion.com/get-azure-devops-sprint-capacity-using-api-and-postman/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Latest stackoverflow posts</h3>
