@@ -1,4 +1,4 @@
-<h3>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3> 
+<h3>Hi there!</h3> 
 <p>I am yet another developer in this beautiful developer world. Many years of experience in Software Development, hands-on with a wide variety of technologies such as Azure Services, Azure DevOps, Azure IoT, Azure Functions, Asp.Net Core, Angular, and other Front-End technologies, SharePoint, Microsoft Flow, Docker, etc. I have experience in working with Monolithic, Microservices, and Cloud-Native Applications. Love to learn new technologies, implement them in projects, and write about them. Believer of “One who stops learning is old”. An engineer by profession and a writer by passion. Author of the book <a href="https://www.amazon.com/Asp-Net-Core-Azure-Raspberry-Applications/dp/1484264428/">Asp Net Core and Azure with Raspberry Pi 4</a>, Microsoft MVP (2016-2022) and I have written more than 500 blogs on my blog <a href="https://sibeeshpassion.com">Sibeesh Passion</a>. </p>
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=sibeeshvenu&theme=flat&no-frame=true&margin-w=30" /> -->
