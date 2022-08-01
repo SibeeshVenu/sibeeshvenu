@@ -18,8 +18,8 @@
 <!-- STACKOVERFLOW:START -->
 - [Answer by Sibeesh Venu for Why doesn&#39;t import work for me? - Python](https://stackoverflow.com/questions/17862887/why-doesnt-import-work-for-me-python/73080526#73080526)
 - [Answer by Sibeesh Venu for How to fix &#39;Some files are not writable by WordPress&#39; error, website cannot be changed by admin](https://stackoverflow.com/questions/57630117/how-to-fix-some-files-are-not-writable-by-wordpress-error-website-cannot-be-c/71645379#71645379)
-- [Task &quot;NETSdkError&quot; skipped, due to false condition; &lpar;&#39;$&lpar;_TargetFrameworkVersionWithoutV&rpar;&#39; &gt; &#39;$&lpar;NETCoreAppMaximumVersion&rpar;&#39;&rpar; was evaluated](https://stackoverflow.com/questions/70352272/task-netsdkerror-skipped-due-to-false-condition-targetframeworkversionw)
 - [Answer by Sibeesh Venu for Task &quot;NETSdkError&quot; skipped, due to false condition; &lpar;&#39;$&lpar;_TargetFrameworkVersionWithoutV&rpar;&#39; &gt; &#39;$&lpar;NETCoreAppMaximumVersion&rpar;&#39;&rpar; was evaluated](https://stackoverflow.com/questions/70352272/task-netsdkerror-skipped-due-to-false-condition-targetframeworkversionw/70352273#70352273)
+- [Task &quot;NETSdkError&quot; skipped, due to false condition; &lpar;&#39;$&lpar;_TargetFrameworkVersionWithoutV&rpar;&#39; &gt; &#39;$&lpar;NETCoreAppMaximumVersion&rpar;&#39;&rpar; was evaluated](https://stackoverflow.com/questions/70352272/task-netsdkerror-skipped-due-to-false-condition-targetframeworkversionw)
 - [Azure DevOps YAML Pipeline Error: While parsing a block mapping did not find expected key](https://stackoverflow.com/questions/70258702/azure-devops-yaml-pipeline-error-while-parsing-a-block-mapping-did-not-find-exp)
 <!-- STACKOVERFLOW:END -->
 <!-- STACKOVERFLOW:START -->
