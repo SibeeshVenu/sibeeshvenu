@@ -16,11 +16,11 @@
 <h3>Latest stackoverflow posts</h3>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Sibeesh Venu for VisualStudioCodeCredential.get_token failed](https://stackoverflow.com/questions/63820817/visualstudiocodecredential-get-token-failed/73988177#73988177)
 - [Answer by Sibeesh Venu for dotnet error : Unable to obtain lock file access on &#39;/tmp/NuGetScratch/lock/](https://stackoverflow.com/questions/59756017/dotnet-error-unable-to-obtain-lock-file-access-on-tmp-nugetscratch-lock/73592611#73592611)
 - [Answer by Sibeesh Venu for Why doesn&#39;t import work for me? - Python](https://stackoverflow.com/questions/17862887/why-doesnt-import-work-for-me-python/73080526#73080526)
 - [Answer by Sibeesh Venu for How to fix &#39;Some files are not writable by WordPress&#39; error, website cannot be changed by admin](https://stackoverflow.com/questions/57630117/how-to-fix-some-files-are-not-writable-by-wordpress-error-website-cannot-be-c/71645379#71645379)
 - [Answer by Sibeesh Venu for Task &quot;NETSdkError&quot; skipped, due to false condition; &lpar;&#39;$&lpar;_TargetFrameworkVersionWithoutV&rpar;&#39; &gt; &#39;$&lpar;NETCoreAppMaximumVersion&rpar;&#39;&rpar; was evaluated](https://stackoverflow.com/questions/70352272/task-netsdkerror-skipped-due-to-false-condition-targetframeworkversionw/70352273#70352273)
-- [Task &quot;NETSdkError&quot; skipped, due to false condition; &lpar;&#39;$&lpar;_TargetFrameworkVersionWithoutV&rpar;&#39; &gt; &#39;$&lpar;NETCoreAppMaximumVersion&rpar;&#39;&rpar; was evaluated](https://stackoverflow.com/questions/70352272/task-netsdkerror-skipped-due-to-false-condition-targetframeworkversionw)
 <!-- STACKOVERFLOW:END -->
 <!-- STACKOVERFLOW:START -->
 - [Answer by Sibeesh Venu for The seed entity for entity type 'X' cannot be added because the was no value provided for the required property "..ID"](https://stackoverflow.com/questions/50010613/the-seed-entity-for-entity-type-x-cannot-be-added-because-the-was-no-value-pro/66313185#66313185)
