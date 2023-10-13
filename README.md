@@ -6,11 +6,11 @@
 <h3>Latest blog posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [.NET 8 New and Efficient Way to Check IP is in Given IP Range](https://sibeeshpassion.com/net-8-new-and-efficient-way-to-check-ip-is-in-given-ip-range/)
 - [Async Client IP safelist for Dot NET](https://sibeeshpassion.com/async-client-ip-safelist-for-dot-net/)
 - [Post Messages to Microsoft Teams Using Python](https://sibeeshpassion.com/post-messages-to-microsoft-teams-using-python/)
 - [Get Azure Blob Storage Blob Metadata Using PowerShell](https://sibeeshpassion.com/get-azure-blob-storage-blob-metadata-using-powershell/)
 - [Deploy .net 6 App to Azure from Azure DevOps using Pipelines](https://sibeeshpassion.com/deploy-net-6-app-to-azure-from-azure-devops-using-pipelines/)
-- [Integrate Azure App Insights in 1 Minute to .Net6 Application](https://sibeeshpassion.com/integrate-azure-app-insights-in-1-minute-to-net6-application/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Latest stackoverflow posts</h3>
