@@ -16,11 +16,11 @@
 <h3>Latest stackoverflow posts</h3>
 
 <!-- StackOverflow-SibeeshVenu:START -->
+- [Answer by Sibeesh Venu for HTTP Error 500.30 - ASP.NET Core app failed to start](https://stackoverflow.com/questions/67211060/http-error-500-30-asp-net-core-app-failed-to-start/78489121#78489121)
+- [Answer by Sibeesh Venu for Error: The resource you are looking for has been removed, had its name changed, or is temporarily unavailable](https://stackoverflow.com/questions/38019874/error-the-resource-you-are-looking-for-has-been-removed-had-its-name-changed/78489058#78489058)
 - [Answer by Sibeesh Venu for NETSDK1045: The current .NET SDK does not support targeting .NET 8.0.1](https://stackoverflow.com/questions/77817644/netsdk1045-the-current-net-sdk-does-not-support-targeting-net-8-0-1/78026501#78026501)
 - [Answer by Sibeesh Venu for How to check a input IP fall in a specific IP range](https://stackoverflow.com/questions/2138706/how-to-check-a-input-ip-fall-in-a-specific-ip-range/76928408#76928408)
 - [Answer by Sibeesh Venu for Can the EventHubProducerClient be reused across multiple request](https://stackoverflow.com/questions/63675895/can-the-eventhubproducerclient-be-reused-across-multiple-request/76922029#76922029)
-- [Answer by Sibeesh Venu for Azure web app is 503 Service Unavailable. How do I get it back running?](https://stackoverflow.com/questions/55354045/azure-web-app-is-503-service-unavailable-how-do-i-get-it-back-running/76563642#76563642)
-- [Answer by Sibeesh Venu for SwaggerGeneratorException: Conflicting method/path combination &quot;POST api/v{version}/Employee&quot; for actions](https://stackoverflow.com/questions/72541447/swaggergeneratorexception-conflicting-method-path-combination-post-api-vversi/76163620#76163620)
 <!-- StackOverflow-SibeeshVenu:END -->
 
 <!--<img  src="https://github-readme-stats.vercel.app/api?username=sibeeshvenu&count_private=true&show_icons=true&hide_title=true" />-->
