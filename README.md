@@ -16,11 +16,11 @@
 <h3>Latest stackoverflow posts</h3>
 
 <!-- StackOverflow-SibeeshVenu:START -->
+- [&#39;IHttpClientBuilder&#39; does not contain a definition for &#39;AddPolicyHandler&#39; and no accessible extension method &#39;AddPolicyHandler&#39;](https://stackoverflow.com/questions/79493147/ihttpclientbuilder-does-not-contain-a-definition-for-addpolicyhandler-and-no)
+- [Answer by Sibeesh Venu for &#39;IHttpClientBuilder&#39; does not contain a definition for &#39;AddPolicyHandler&#39; and no accessible extension method &#39;AddPolicyHandler&#39;](https://stackoverflow.com/questions/79493147/ihttpclientbuilder-does-not-contain-a-definition-for-addpolicyhandler-and-no/79493148#79493148)
 - [Answer by Sibeesh Venu for HTTP Error 500.30 - ASP.NET Core app failed to start](https://stackoverflow.com/questions/67211060/http-error-500-30-asp-net-core-app-failed-to-start/78489121#78489121)
 - [Answer by Sibeesh Venu for Error: The resource you are looking for has been removed, had its name changed, or is temporarily unavailable](https://stackoverflow.com/questions/38019874/error-the-resource-you-are-looking-for-has-been-removed-had-its-name-changed/78489058#78489058)
 - [Answer by Sibeesh Venu for NETSDK1045: The current .NET SDK does not support targeting .NET 8.0.1](https://stackoverflow.com/questions/77817644/netsdk1045-the-current-net-sdk-does-not-support-targeting-net-8-0-1/78026501#78026501)
-- [Answer by Sibeesh Venu for How to check a input IP fall in a specific IP range](https://stackoverflow.com/questions/2138706/how-to-check-a-input-ip-fall-in-a-specific-ip-range/76928408#76928408)
-- [Answer by Sibeesh Venu for Can the EventHubProducerClient be reused across multiple request](https://stackoverflow.com/questions/63675895/can-the-eventhubproducerclient-be-reused-across-multiple-request/76922029#76922029)
 <!-- StackOverflow-SibeeshVenu:END -->
 
 <!--<img  src="https://github-readme-stats.vercel.app/api?username=sibeeshvenu&count_private=true&show_icons=true&hide_title=true" />-->
