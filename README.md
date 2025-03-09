@@ -6,11 +6,11 @@
 <h3>Latest blog posts</h3>
 
 <!-- SibeeshPassion:START -->
+- [Easily move data from one COSMOS DB to another](https://sibeeshpassion.com/easily-move-data-from-one-cosmos-db-to-another/)
 - [.NET 8 New and Efficient Way to Check IP is in Given IP Range](https://sibeeshpassion.com/net-8-new-and-efficient-way-to-check-ip-is-in-given-ip-range/)
 - [Async Client IP safelist for Dot NET](https://sibeeshpassion.com/async-client-ip-safelist-for-dot-net/)
 - [Post Messages to Microsoft Teams Using Python](https://sibeeshpassion.com/post-messages-to-microsoft-teams-using-python/)
 - [Get Azure Blob Storage Blob Metadata Using PowerShell](https://sibeeshpassion.com/get-azure-blob-storage-blob-metadata-using-powershell/)
-- [Deploy .net 6 App to Azure from Azure DevOps using Pipelines](https://sibeeshpassion.com/deploy-net-6-app-to-azure-from-azure-devops-using-pipelines/)
 <!-- SibeeshPassion:END -->
 
 <h3>Latest stackoverflow posts</h3>
