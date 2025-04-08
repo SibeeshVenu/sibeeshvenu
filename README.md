@@ -16,11 +16,11 @@
 <h3>Latest stackoverflow posts</h3>
 
 <!-- StackOverflow-SibeeshVenu:START -->
+- [Azure static web app yaml pipeline Error: Could not detect the language from repo](https://stackoverflow.com/questions/79562870/azure-static-web-app-yaml-pipeline-error-could-not-detect-the-language-from-rep)
+- [Answer by Sibeesh Venu for Azure static web app yaml pipeline Error: Could not detect the language from repo](https://stackoverflow.com/questions/79562870/azure-static-web-app-yaml-pipeline-error-could-not-detect-the-language-from-rep/79562871#79562871)
 - [&#39;IHttpClientBuilder&#39; does not contain a definition for &#39;AddPolicyHandler&#39; and no accessible extension method &#39;AddPolicyHandler&#39;](https://stackoverflow.com/questions/79493147/ihttpclientbuilder-does-not-contain-a-definition-for-addpolicyhandler-and-no)
 - [Answer by Sibeesh Venu for &#39;IHttpClientBuilder&#39; does not contain a definition for &#39;AddPolicyHandler&#39; and no accessible extension method &#39;AddPolicyHandler&#39;](https://stackoverflow.com/questions/79493147/ihttpclientbuilder-does-not-contain-a-definition-for-addpolicyhandler-and-no/79493148#79493148)
 - [Answer by Sibeesh Venu for HTTP Error 500.30 - ASP.NET Core app failed to start](https://stackoverflow.com/questions/67211060/http-error-500-30-asp-net-core-app-failed-to-start/78489121#78489121)
-- [Answer by Sibeesh Venu for Error: The resource you are looking for has been removed, had its name changed, or is temporarily unavailable](https://stackoverflow.com/questions/38019874/error-the-resource-you-are-looking-for-has-been-removed-had-its-name-changed/78489058#78489058)
-- [Answer by Sibeesh Venu for NETSDK1045: The current .NET SDK does not support targeting .NET 8.0.1](https://stackoverflow.com/questions/77817644/netsdk1045-the-current-net-sdk-does-not-support-targeting-net-8-0-1/78026501#78026501)
 <!-- StackOverflow-SibeeshVenu:END -->
 
 <!--<img  src="https://github-readme-stats.vercel.app/api?username=sibeeshvenu&count_private=true&show_icons=true&hide_title=true" />-->
