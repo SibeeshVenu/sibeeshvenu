@@ -16,11 +16,11 @@
 <h3>Latest stackoverflow posts</h3>
 
 <!-- StackOverflow-SibeeshVenu:START -->
+- [Failed to sync triggers for function app &#39;funcsintest03&#39;. Error: BadRequest - Encountered an error &lpar;BadGateway&rpar; from host runtime. &lpar;CODE: 400&rpar;](https://stackoverflow.com/questions/79594376/failed-to-sync-triggers-for-function-app-funcsintest03-error-badrequest-en)
+- [Answer by Sibeesh Venu for Failed to sync triggers for function app &#39;funcsintest03&#39;. Error: BadRequest - Encountered an error &lpar;BadGateway&rpar; from host runtime. &lpar;CODE: 400&rpar;](https://stackoverflow.com/questions/79594376/failed-to-sync-triggers-for-function-app-funcsintest03-error-badrequest-en/79594377#79594377)
 - [Azure static web app yaml pipeline Error: Could not detect the language from repo](https://stackoverflow.com/questions/79562870/azure-static-web-app-yaml-pipeline-error-could-not-detect-the-language-from-rep)
 - [Answer by Sibeesh Venu for Azure static web app yaml pipeline Error: Could not detect the language from repo](https://stackoverflow.com/questions/79562870/azure-static-web-app-yaml-pipeline-error-could-not-detect-the-language-from-rep/79562871#79562871)
 - [&#39;IHttpClientBuilder&#39; does not contain a definition for &#39;AddPolicyHandler&#39; and no accessible extension method &#39;AddPolicyHandler&#39;](https://stackoverflow.com/questions/79493147/ihttpclientbuilder-does-not-contain-a-definition-for-addpolicyhandler-and-no)
-- [Answer by Sibeesh Venu for &#39;IHttpClientBuilder&#39; does not contain a definition for &#39;AddPolicyHandler&#39; and no accessible extension method &#39;AddPolicyHandler&#39;](https://stackoverflow.com/questions/79493147/ihttpclientbuilder-does-not-contain-a-definition-for-addpolicyhandler-and-no/79493148#79493148)
-- [Answer by Sibeesh Venu for HTTP Error 500.30 - ASP.NET Core app failed to start](https://stackoverflow.com/questions/67211060/http-error-500-30-asp-net-core-app-failed-to-start/78489121#78489121)
 <!-- StackOverflow-SibeeshVenu:END -->
 
 <!--<img  src="https://github-readme-stats.vercel.app/api?username=sibeeshvenu&count_private=true&show_icons=true&hide_title=true" />-->
