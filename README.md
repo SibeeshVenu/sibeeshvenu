@@ -6,11 +6,11 @@
 <h3>Latest blog posts</h3>
 
 <!-- SibeeshPassion:START -->
+- [Linux Azure Function Isolated Dot Net 9 YAML Template Deployment](https://sibeeshpassion.com/linux-azure-function-isolated-dot-net-9-yaml-template-deployment/)
 - [Build, Deploy, Configure CI &amp;CD Your Static Website in 5 mins](https://sibeeshpassion.com/build-deploy-configure-ci-cd-your-static-website-in-5-mins/)
 - [Easily move data from one COSMOS DB to another](https://sibeeshpassion.com/easily-move-data-from-one-cosmos-db-to-another/)
 - [.NET 8 New and Efficient Way to Check IP is in Given IP Range](https://sibeeshpassion.com/net-8-new-and-efficient-way-to-check-ip-is-in-given-ip-range/)
 - [Async Client IP safelist for Dot NET](https://sibeeshpassion.com/async-client-ip-safelist-for-dot-net/)
-- [Post Messages to Microsoft Teams Using Python](https://sibeeshpassion.com/post-messages-to-microsoft-teams-using-python/)
 <!-- SibeeshPassion:END -->
 
 <h3>Latest stackoverflow posts</h3>
