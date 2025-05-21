@@ -32,9 +32,9 @@
   
 | Blogs & Websites                                             |                            YouTube Channels                             |                                                                            Other |
 | :----------------------------------------------------------- | :---------------------------------------------------------------------: | -------------------------------------------------------------------------------: |
-| 🔗 <a href="https://sibeeshpassion.com/">Blog</a>             | 📷 <a href="https://www.youtube.com/njanorumalayali">njanorumalayali</a> |                            <a href="https://twitter.com/SibeeshVenu">twitter</a> |
+| 🔗 <a href="https://sibeeshpassion.com/">Blog</a>             | 📷 <a href="https://www.youtube.com/sibeeshvenu">sibeeshvenu</a> |                            <a href="https://twitter.com/SibeeshVenu">twitter</a> |
 | 🔗 <a href="https://sibeeshvenu.com/">Website</a>             |  📷 <a href="https://www.youtube.com/SibeeshPassion">sibeeshpassion</a>  |                             <a href="https://medium.com/@sibeeshvenu">medium</a> |
-| 🔗 <a href="https://njanorumalayali.com/">njanorumalayali</a> |                                                                         | <a href="https://stackoverflow.com/users/5550507/sibeesh-venu">stackoverflow</a> |
+|  |                                                                         | <a href="https://stackoverflow.com/users/5550507/sibeesh-venu">stackoverflow</a> |
 
 </p>
 </details>
