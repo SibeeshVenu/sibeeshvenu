@@ -17,8 +17,8 @@
 
 <!-- StackOverflow-SibeeshVenu:START -->
 - [Answer by Sibeesh Venu for No such host is known - Mass Transit - Azure Service Bus](https://stackoverflow.com/questions/61096817/no-such-host-is-known-mass-transit-azure-service-bus/79621979#79621979)
-- [Answer by Sibeesh Venu for Failed to sync triggers for function app &#39;funcsintest03&#39;. Error: BadRequest - Encountered an error &lpar;BadGateway&rpar; from host runtime. &lpar;CODE: 400&rpar;](https://stackoverflow.com/questions/79594376/failed-to-sync-triggers-for-function-app-funcsintest03-error-badrequest-en/79594377#79594377)
 - [Failed to sync triggers for function app &#39;funcsintest03&#39;. Error: BadRequest - Encountered an error &lpar;BadGateway&rpar; from host runtime. &lpar;CODE: 400&rpar;](https://stackoverflow.com/questions/79594376/failed-to-sync-triggers-for-function-app-funcsintest03-error-badrequest-en)
+- [Answer by Sibeesh Venu for Failed to sync triggers for function app &#39;funcsintest03&#39;. Error: BadRequest - Encountered an error &lpar;BadGateway&rpar; from host runtime. &lpar;CODE: 400&rpar;](https://stackoverflow.com/questions/79594376/failed-to-sync-triggers-for-function-app-funcsintest03-error-badrequest-en/79594377#79594377)
 - [Azure static web app yaml pipeline Error: Could not detect the language from repo](https://stackoverflow.com/questions/79562870/azure-static-web-app-yaml-pipeline-error-could-not-detect-the-language-from-rep)
 - [Answer by Sibeesh Venu for Azure static web app yaml pipeline Error: Could not detect the language from repo](https://stackoverflow.com/questions/79562870/azure-static-web-app-yaml-pipeline-error-could-not-detect-the-language-from-rep/79562871#79562871)
 <!-- StackOverflow-SibeeshVenu:END -->
